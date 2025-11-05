@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Gestor de Tareas",
+    "slug": "gestor-tareas-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#007AFF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#007AFF"
+      }
+    },
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}
